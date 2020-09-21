@@ -3,6 +3,9 @@
 
 **ID**: Sumber kode untuk website servisariston.id.
 
+## Status
+DEVELOPING
+
 ## Requirements
 1. Composer
 2. Lumen
