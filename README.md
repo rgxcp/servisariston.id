@@ -4,7 +4,7 @@
 **ID**: Sumber kode untuk website servisariston.id.
 
 ## Status
-DEVELOPING
+END OF LIFE
 
 ## Requirements
 1. Composer
