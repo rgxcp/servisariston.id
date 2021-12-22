@@ -1,7 +1,5 @@
-# 🧊 PHP - Lumen - Servis Ariston
-**EN**: Source code for servisariston.id website.
-
-**ID**: Sumber kode untuk website servisariston.id.
+# 🧊 [servisariston.id](http://servisariston.id)
+Source code for servisariston.id website.
 
 ## Status
 END OF LIFE
